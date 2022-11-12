@@ -1,5 +1,6 @@
 """
-Given an array of integers representing an elevation map where the width of each bar is 1,
+Given an array of integers representing an elevation 
+map where the width of each bar is 1,
 return how many rainwater it can trap
 """
 sample = [0, 1, 0, 2, 1, 0, 3, 1, 0, 1, 2]
